@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE basketball SYSTEM "file.dtd">
+<basketball>
+	 <player>
+		 <number> 9 </number>
+		 <name country='Serbia'> Стефан </name>
+		 <surname> Маркович </surname>
+		 <position> Защитник </position>
+		 <efficiency> 14.4 </efficiency>
+	 </player>
+	 <player>
+		 <number> 10 </number>
+		 <name country='USA'> Райнан </name>
+		 <surname> Тулсон </surname>
+		 <position> Защитник </position>
+		 <efficiency> 9.0 </efficiency>
+	 </player>
+	 <player>
+		 <number> 13 </number>
+		 <name country='Russia'> Артем </name>
+		 <surname> Вихров </surname>
+		 <position> Защитник </position>
+		 <efficiency> 3.8 </efficiency>
+	 </player>
+	 <player>
+		 <number> 30 </number>
+		 <name country='Russia'> Павел </name>
+		 <surname> Сергеев </surname>
+		 <position> Защитник </position>
+		 <efficiency> 3.0 </efficiency>
+	 </player>
+	 <player>
+		 <number> 3 </number>
+		 <name country='Russia'> Евгений </name>
+		 <surname> Войтюк </surname>
+		 <position> Форвард </position>
+		 <efficiency> 1.2 </efficiency>
+	 </player>
+	 <player>
+		 <number> 4 </number>
+		 <name country='USA'> Аарон </name>
+		 <surname> Уайт </surname>
+		 <position> Форвард </position>
+		 <efficiency> 10.8 </efficiency>
+	 </player>
+	 <player>
+		 <number> 6 </number>
+		 <name country='Latvia'> Янис </name>
+		 <surname> Тимма </surname>
+		 <position> Форвард </position>
+		 <efficiency> 17.3 </efficiency>
+	 </player>
+	 <player>
+		 <number> 7 </number>
+		 <name country='Russia'> Сергей </name>
+		 <surname> Карасев </surname>
+		 <position> Форвард </position>
+		 <efficiency> 14.5 </efficiency>
+	 </player>
+	 <player>
+		 <number> 24 </number>
+		 <name country='Russia'> Александр </name>
+		 <surname> Разумов </surname>
+		 <position> Форвард </position>
+		 <efficiency> 1.8 </efficiency>
+	 </player>
+	 <player>
+		 <number> 31 </number>
+		 <name country='Russia'> Евгений </name>
+		 <surname> Валиев </surname>
+		 <position> Форвард </position>
+		 <efficiency> -4.0 </efficiency>
+	 </player>
+	 <player>
+		 <number> 14 </number>
+		 <name country='Russia'> Антон </name>
+		 <surname> Пушков </surname>
+		 <position> Центровой </position>
+		 <efficiency> 12.4 </efficiency>
+	 </player>
+	 <player>
+		 <number> 31 </number>
+		 <name country='Russia'> Евгений </name>
+		 <surname> Валиев </surname>
+		 <position> Центровой </position>
+		 <efficiency> -4.0 </efficiency>
+	 </player>
+	 <player>
+		 <number> 32 </number>
+		 <name country='Russia'> Андрей </name>
+		 <surname> Десятников </surname>
+		 <position> Центровой </position>
+		 <efficiency> -0.6 </efficiency>
+	 </player>
+	 <player>
+		 <number> 33 </number>
+		 <name country='Canada'> Кайл </name>
+		 <surname> Лэндри </surname>
+		 <position> Центровой </position>
+		 <efficiency> 12.0 </efficiency>
+	 </player>
+</basketball>

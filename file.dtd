@@ -1,0 +1,11 @@
+<!ELEMENT basketball (player+)>
+<!ELEMENT player (number, name, surname, position, efficiency)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT efficiency (#PCDATA)>
+
+<!ATTLIST name
+country CDATA #IMPLIED
+>
