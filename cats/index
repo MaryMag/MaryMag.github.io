@@ -1,0 +1,25 @@
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Пример Магнитова</title>
+  <link rel="stylesheet" href="css/style.css" type="text/css">
+ </head>
+ <body>
+ <header>
+ 	<div class="container">
+ 		<div class="logo">
+ 			<h1>Velvet pride</h1>
+ 		</div>
+ 		<div class="navigation">
+ 			<ul>
+ 				<li><h2>О породе</h2></li>
+ 				<li><h2>Pitomchi</h2></li>
+ 				<li>Kitten</li>
+ 				<li>Usefull</li>
+ 				<li>Contacts</li>
+ 			</ul>
+ 		</div>
+ 	</div>
+ </header>
+ </body>
+ </html>
